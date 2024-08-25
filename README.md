@@ -1,7 +1,7 @@
 # Hi there, I´m Tomás Kleinschuster 👋
 
-- 🔭 I’m currently working on a React Course on CoderHouse and a Front End Developer intership in No Country
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning javascript
 
 ## Lenguages and Tools:
 
