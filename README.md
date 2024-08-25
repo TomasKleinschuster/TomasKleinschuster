@@ -17,6 +17,5 @@
 
 ## Connect with me:
 
- https://tomaskleinschuster.github.io/Portfolio_V2/
  <br/>
  https://www.linkedin.com/in/kleinschuster-tomas/
