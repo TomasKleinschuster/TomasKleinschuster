@@ -1,6 +1,6 @@
 # Hi there, I´m Tomás Kleinschuster 👋
 
-- 🔭 I’m currently studying a technical degree in programming in UTN
+- :man_student: I’m currently studying a technical degree in programming in UTN
 - 🌱 I’m currently learning javascript
 
 ## Lenguages and Tools:
