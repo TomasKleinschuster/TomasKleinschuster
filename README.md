@@ -17,5 +17,4 @@
 
 ## Connect with me:
 
- <br/>
  https://www.linkedin.com/in/kleinschuster-tomas/
